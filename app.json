@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "sustainabli-app",
+    "slug": "sustainabli-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
